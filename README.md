@@ -1,5 +1,7 @@
 # Rent Rush Achievements
 
+Achievements backend for Monopory.
+
 Reusable achievements backend, contracts, client, and evaluation helpers.
 
 ## Projects
